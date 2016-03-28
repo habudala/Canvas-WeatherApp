@@ -1,0 +1,2 @@
+## Weather app. using JS JQ and API's from openweathermap.com
+# A very basic weather search application that allows the user to search for the temperature in any given city in the world. The app was built completely from scratch as an experiment/ self-tutorial retrieving data in JSON format.
